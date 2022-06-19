@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+
+
+.Container{
+
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    flex-wrap: nowrap;
+}
+
+.link{
+    text-decoration: none;
+    color: inherit;
+}
+
+  
