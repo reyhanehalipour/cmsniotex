@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cmsniotex/static/css/main.a1ade7fc.css",
+    "main.js": "/cmsniotex/static/js/main.30aadb86.js",
+    "index.html": "/cmsniotex/index.html",
+    "main.a1ade7fc.css.map": "/cmsniotex/static/css/main.a1ade7fc.css.map",
+    "main.30aadb86.js.map": "/cmsniotex/static/js/main.30aadb86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1ade7fc.css",
+    "static/js/main.30aadb86.js"
+  ]
+}
